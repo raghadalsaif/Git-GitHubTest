@@ -11,6 +11,7 @@
 		563C72512A5DA05C003A4446 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563C72502A5DA05C003A4446 /* ContentView.swift */; };
 		563C72532A5DA05D003A4446 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 563C72522A5DA05D003A4446 /* Assets.xcassets */; };
 		563C72562A5DA05D003A4446 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 563C72552A5DA05D003A4446 /* Preview Assets.xcassets */; };
+		563C725D2A5DA1DF003A4446 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563C725C2A5DA1DF003A4446 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		563C72502A5DA05C003A4446 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		563C72522A5DA05D003A4446 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		563C72552A5DA05D003A4446 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		563C725C2A5DA1DF003A4446 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				563C724E2A5DA05C003A4446 /* Git_GitHubTestApp.swift */,
 				563C72502A5DA05C003A4446 /* ContentView.swift */,
+				563C725C2A5DA1DF003A4446 /* SecondView.swift */,
 				563C72522A5DA05D003A4446 /* Assets.xcassets */,
 				563C72542A5DA05D003A4446 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				563C725D2A5DA1DF003A4446 /* SecondView.swift in Sources */,
 				563C72512A5DA05C003A4446 /* ContentView.swift in Sources */,
 				563C724F2A5DA05C003A4446 /* Git_GitHubTestApp.swift in Sources */,
 			);
